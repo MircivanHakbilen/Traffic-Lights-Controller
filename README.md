@@ -28,5 +28,5 @@ The system uses a finite state machine to control the sequence of traffic lights
 
 ## Author
 
-Electrical and Electronics Engineering Student
+Mircivan Hakbilen
 
